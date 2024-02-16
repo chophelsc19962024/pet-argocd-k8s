@@ -15,5 +15,5 @@ spec:
         app: sonamc-deploy
     spec:
       containers:
-      - image: chophelsc19962024/sonam:19
+      - image: chophelsc1996/sonam:19
         name: pet
